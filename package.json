@@ -1,0 +1,9 @@
+{
+  "name": "case-study-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local-first, browser-based brand case study builder.",
+  "scripts": {
+    "dev": "npx vercel dev"
+  }
+}
